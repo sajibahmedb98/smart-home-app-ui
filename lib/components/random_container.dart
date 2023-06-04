@@ -24,7 +24,7 @@ class RandomContainer extends StatelessWidget {
         height: size,
         width: size,
         decoration: BoxDecoration(
-          color: surface2Color.withOpacity(0.3),
+          color: surface2Color.withOpacity(0.2),
           borderRadius: BorderRadius.circular(radius),
         ),
       ),

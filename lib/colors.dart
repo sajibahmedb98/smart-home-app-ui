@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 const Color surfaceColor = Color(0xffE7DDDA);
-const Color mainColor = Color(0xff9A7265);
+const Color mainColor = Color(0xFF9A7265);
 const Color surface2Color = Color(0xffD8E4E8);
 const Color main2Color = Color(0xff4C7380);
 const Color surface3Color = Color(0xffE0EBE2);
